@@ -1,0 +1,24 @@
+{
+    "0": {
+        "id": 0,
+        "title": "Xiaomi Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+        "price": 959,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_989463-MPE50139080094_052022-F.webp",
+        "description": "Some description"
+    },
+    "1": {
+        "id": 0,
+        "title": "2 Xiaomi Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+        "price": 959,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_782679-MPE52433799289_112022-F.webp",
+        "description": "Some description"
+    },
+    "2": {
+        "id": 0,
+        "title": "3 Xiaomi Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+        "price": 959,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_989463-MPE50139080094_052022-F.webp",
+        "description": "Some description"
+    }
+
+}
