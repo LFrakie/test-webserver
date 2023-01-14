@@ -1,0 +1,77 @@
+[
+    {
+      "id": 0,
+      "title": "Xiaomi Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+      "price": 959,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_989463-MPE50139080094_052022-F.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 1,
+      "title": "Bombert Jacket De Hombre Chaquete De Hombre Combert",
+      "price": 90,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_782679-MPE52433799289_112022-F.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 2,
+      "title": "Zapatos Caterpillar De Mujer Modelo Tractor",
+      "price": 170,
+      "img": "/imgs/recoms/shoes.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 3,
+      "title": "Reloj Smart Watch W 26 Color Negro",
+      "price": 74,
+      "img": "/imgs/recoms/sw.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 4,
+      "title": "Alcancia Gato Roba Monedas Electrico Divertido",
+      "price": 54,
+      "img": "/imgs/recoms/catbox.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 0,
+      "title": "Xiaomi Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+      "price": 959,
+      "img": "/imgs/recoms/phone.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 1,
+      "title": "Bombert Jacket De Hombre Chaquete De Hombre Combert",
+      "price": 90,
+      "img": "/imgs/recoms/jacket.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 2,
+      "title": "Zapatos Caterpillar De Mujer Modelo Tractor",
+      "price": 170,
+      "img": "/imgs/recoms/shoes.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 3,
+      "title": "Reloj Smart Watch W 26 Color Negro",
+      "price": 74,
+      "img": "/imgs/recoms/sw.webp",
+      "description": "Some description"
+    },
+    {
+      "id": 4,
+      "title": "Alcancia Gato Roba Monedas Electrico Divertido",
+      "price": 54,
+      "img": "/imgs/recoms/catbox.webp",
+      "description": "Some description"
+    }
+  ]
+
+
+
+
+  
