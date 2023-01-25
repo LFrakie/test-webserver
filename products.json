@@ -7,15 +7,19 @@
   },
   
     {
-    "id": "2",
+    "id": 2,
     "title": "Caldo blanco",
     "img": "blanco.jpg",
     "steps": "primeros steps  asd "
   },
   
      {
-    "id": "3",
+    "id": 3,
     "title": "Pizza",
+       "ingridients": [
+      "papas",
+      "pollo"
+    ],
     "img": "pizza.jpg",
     "steps": "primeros steps  asd "
      }
