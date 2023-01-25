@@ -1,12 +1,8 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "title": "Caldo de pollo",
     "img": "pollo.jpg",
-    "ingridients": [
-      "papas",
-      "pollo"
-    ],
     "steps": "steps asd asd asd "
   },
   
@@ -14,23 +10,14 @@
     "id": "2",
     "title": "Caldo blanco",
     "img": "blanco.jpg",
-    "ingridients": [
-      "papas",
-      "caldo"
-    ],
     "steps": "primeros steps  asd "
   },
-  
   
      {
     "id": "3",
     "title": "Pizza",
     "img": "pizza.jpg",
-    "ingridients": [
-      "papas",
-      "caldo"
-    ],
     "steps": "primeros steps  asd "
-  },
+     },
   
 ]
