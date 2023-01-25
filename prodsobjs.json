@@ -1,26 +1,26 @@
-{ 
-  {
-    "id": 1,
-    "title": "Caldo de pollo",
-    "img": "pollo.jpg",
-    "steps": "steps asd asd asd "
+{
+  "1": {
+    "title": "Force cache Redmi Note 11 - 128 Gb 4 Gb Ram Con Garantia",
+    "price": 104,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_989463-MPE50139080094_052022-F.webp",
+    "description": "Some description"
   },
-  
-    {
-    "id": 2,
-    "title": "Caldo blanco",
-    "img": "blanco.jpg",
-    "steps": "primeros steps  asd "
+  "2": {
+    "title": "Bombert Jacket De Hombre Chaquete De Hombre Combert",
+    "price": 90,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_782679-MPE52433799289_112022-F.webp",
+    "description": "Some description"
   },
-  
-     {
-    "id": 3,
-    "title": "Pizza",
-       "ingridients": [
-      "papas",
-      "pollo"
-    ],
-    "img": "pizza.jpg",
-    "steps": "primeros steps  asd "
-     }
+  "3": {
+    "title": "Zapatos Caterpillar De Mujer Modelo Tractor",
+    "price": 170,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_782679-MPE52433799289_112022-F.webp",
+    "description": "Some description"
+  },
+  "4": {
+    "title": "Tractor",
+    "price": 170,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_782679-MPE52433799289_112022-F.webp",
+    "description": "Some description"
+  }
 }
